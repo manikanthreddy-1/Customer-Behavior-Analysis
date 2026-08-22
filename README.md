@@ -179,8 +179,7 @@ An interactive Power BI dashboard was developed to communicate customer behavior
 
 ### Customer Behavior Analysis Dashboard
 
-![Customer Behavior Dashboard](Screenshot 2026-08-22 134405.png
-)
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 > The dashboard provides an interactive view of customer purchasing behavior, customer segments, revenue patterns, product satisfaction, shipping preferences, and subscription behavior.
 
