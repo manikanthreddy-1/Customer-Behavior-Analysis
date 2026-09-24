@@ -269,7 +269,7 @@ Customers using Express Shipping have a higher average purchase amount compared 
 | 🚚 Express Shipping  |          **$65** |
 | 📦 Standard Shipping |          **$58** |
 
-Express Shipping customers spend approximately **12% more per transaction**.
+Express Shipping customers spend approximately **3.45% more per transaction**.
 
 ### Recommendation
 
